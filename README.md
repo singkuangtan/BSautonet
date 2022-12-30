@@ -15,7 +15,9 @@ python keras_first_network_bsnet_testing_autoencode.py
 
 # Links
 [BSnet paper link](https://vixra.org/abs/2212.0193)
+
 [BSautonet paper link](https://vixra.org/abs/2212.0208)
+
 [BSnet GitHub](https://github.com/singkuangtan/BSnet)
 
 That's it. 
