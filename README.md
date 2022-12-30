@@ -20,5 +20,7 @@ python keras_first_network_bsnet_testing_autoencode.py
 
 [BSnet GitHub](https://github.com/singkuangtan/BSnet)
 
+[Slideshare](https://www.slideshare.net/SingKuangTan)
+
 That's it. 
 Have a Nice Day!!!
