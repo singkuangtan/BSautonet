@@ -12,7 +12,7 @@ Run the command to test a BSautonet
 ```
 python keras_first_network_bsnet_testing_autoencode.py
 ```
-#Experiment Results 
+# Experiment Results 
 
 ![Experiment results](https://github.com/singkuangtan/BSautonet/blob/main/IMG_20221101_000020.png)
 
