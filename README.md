@@ -13,6 +13,8 @@ Run the command to test a BSautonet
 python keras_first_network_bsnet_testing_autoencode.py
 ```
 
+![Experiment results](https://github.com/singkuangtan/BSnet/blob/main/acc.png)
+
 # Links
 [BSnet paper link](https://vixra.org/abs/2212.0193)
 
