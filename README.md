@@ -1,6 +1,14 @@
 # BSautonet
 Boolean Structured Deep Autoencoder Network 
 
+# Main Takeaways
+
+- Our model has only 2.8 millions parameters instead of 20 millions parameters in U-Net
+- Use fully connected layers and yet does not overfit
+- Achieved human level accuracy by subjective analysis of autoencoder output 
+
+# How to Run
+
 The commands are designed to run on Windows OS. If you are using Linux, adapt the commands accordingly.
 
 Run the command to train a BSautonet
