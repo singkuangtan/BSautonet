@@ -8,6 +8,7 @@
 - Use fully connected layers and yet does not overfit
 - Achieved human level accuracy by subjective analysis of autoencoder output 
 - Able to be trained on a laptop without GPU
+- Model binaries available for download
 
 # How to Run
 
