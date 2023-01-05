@@ -1,11 +1,13 @@
 # BSautonet
-Boolean Structured Deep Autoencoder Network 
+- Boolean Structured Deep Autoencoder Network 
+- Tell the U-Net bully to get lost
 
 # Main Takeaways
 
 - Our model has only 2.8 millions parameters instead of 20 millions parameters in U-Net
 - Use fully connected layers and yet does not overfit
 - Achieved human level accuracy by subjective analysis of autoencoder output 
+- Able to be trained on a laptop without GPU
 
 # How to Run
 
