@@ -39,6 +39,8 @@ python keras_first_network_bsnet_testing_autoencode.py
 
 [BSnet GitHub](https://github.com/singkuangtan/BSnet)
 
+[Discrete Markov Random Field Relaxation](https://vixra.org/abs/2112.0151)
+
 [Slideshare](https://www.slideshare.net/SingKuangTan)
 
 That's it. 
