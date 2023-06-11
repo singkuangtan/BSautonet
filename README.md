@@ -10,6 +10,7 @@
 - Able to be trained on a laptop without GPU
 - Noise added to input image by randomly set 70% of the pixels to value 1. This is to show the denoise ability of my Autoencoder 
 - Model binaries available for download
+- No data augmentations, no regularization such as weight decay and dropout
 
 # How to Run
 
